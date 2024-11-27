@@ -35,11 +35,15 @@ Here’s the structure of the repository:
 
 #### Laboratory Activity 4 (26-11-2024)  
 - **Files**:  
-  - **Shapes Folder**:  
-    - `Main.java` - Main program file demonstrating shape inheritance.  
-    - `Rectangle.java` - Rectangle class extending the `Shape` class.  
+  - **Shapes Folder**: Contains multiple Java classes demonstrating OOP concepts:  
+    - `Main.java` - Main program file.  
     - `Shape.java` - Base class for all shapes.  
-  - **Output Screenshot Folder**: Includes output images for the activity.  
+    - `Rectangle.java` - Rectangle class extending the `Shape` class.  
+    - `Square.java` - Square class extending the `Shape` class.  
+    - `Triangle.java` - Triangle class extending the `Shape` class.  
+    - `ShapeCollection.java` - Class to manage a collection of shapes.  
+  - **Output Screenshot Folder**: Includes program output images for the activity.  
+
 
 ---
 
